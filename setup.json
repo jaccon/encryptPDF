@@ -1,0 +1,5 @@
+{
+  "input_directory": "input",
+  "output_directory": "convert",
+  "password_length": 16
+}
